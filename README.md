@@ -21,37 +21,42 @@ En esta sección se exploran los fundamentos teóricos de la ciencia de datos ta
 
 En esta sección, se introducen los fundamentos computacionales en el lenguaje de programación Python manejando temas como:
 
- -Operadores y comandos básicos de Python. <a href="https://github.com/contreras-juan/UPTC_Diplomado_Ciencia_de_Datos/blob/main/Introducci%C3%B3n%20a%20Python/Python_Modulo_1.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+ * Operadores y comandos básicos de Python. <a href="https://github.com/contreras-juan/UPTC_Diplomado_Ciencia_de_Datos/blob/main/Introducci%C3%B3n%20a%20Python/Python_Modulo_1.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
- -Estructuras de datos. <a href="https://github.com/contreras-juan/UPTC_Diplomado_Ciencia_de_Datos/blob/main/Introducci%C3%B3n%20a%20Python/Python_Modulo_1.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+ * Estructuras de datos. <a href="https://github.com/contreras-juan/UPTC_Diplomado_Ciencia_de_Datos/blob/main/Introducci%C3%B3n%20a%20Python/Python_Modulo_1.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
- -Control de flujo. <a href="https://github.com/contreras-juan/UPTC_Diplomado_Ciencia_de_Datos/blob/main/Introducci%C3%B3n%20a%20Python/Python_Modulo_1.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+ * Control de flujo. <a href="https://github.com/contreras-juan/UPTC_Diplomado_Ciencia_de_Datos/blob/main/Introducci%C3%B3n%20a%20Python/Python_Modulo_1.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
- -Funciones y manejo de errores. <a href="https://github.com/contreras-juan/UPTC_Diplomado_Ciencia_de_Datos/blob/main/Introducci%C3%B3n%20a%20Python/Python_Modulo_2.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+ * Funciones y manejo de errores. <a href="https://github.com/contreras-juan/UPTC_Diplomado_Ciencia_de_Datos/blob/main/Introducci%C3%B3n%20a%20Python/Python_Modulo_2.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
- -Clases y objetos. <a href="https://github.com/contreras-juan/UPTC_Diplomado_Ciencia_de_Datos/blob/main/Introducci%C3%B3n%20a%20Python/Python_Modulo_2.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+ * Clases y objetos. <a href="https://github.com/contreras-juan/UPTC_Diplomado_Ciencia_de_Datos/blob/main/Introducci%C3%B3n%20a%20Python/Python_Modulo_2.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
- -Manipulación de datos con Numpy. <a href="https://github.com/contreras-juan/UPTC_Diplomado_Ciencia_de_Datos/blob/main/Manipulaci%C3%B3n%20de%20datos%20con%20Numpy%20y%20Pandas/Numpy_fundamentals.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+ * Manipulación de datos con Numpy. <a href="https://github.com/contreras-juan/UPTC_Diplomado_Ciencia_de_Datos/blob/main/Manipulaci%C3%B3n%20de%20datos%20con%20Numpy%20y%20Pandas/Numpy_fundamentals.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
- -Manipulación de datos con Pandas. <a href="https://github.com/contreras-juan/UPTC_Diplomado_Ciencia_de_Datos/blob/main/Manipulaci%C3%B3n%20de%20datos%20con%20Numpy%20y%20Pandas/Pandas_fundamentals.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+ * Manipulación de datos con Pandas. <a href="https://github.com/contreras-juan/UPTC_Diplomado_Ciencia_de_Datos/blob/main/Manipulaci%C3%B3n%20de%20datos%20con%20Numpy%20y%20Pandas/Pandas_fundamentals.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 Por otra parte, se introducen los conceptos y algoritmos fundamentales de matemáticas para ciencias de datos tales como:
 
- -Algebra lineal. <a href="https://github.com/contreras-juan/UPTC_Diplomado_Ciencia_de_Datos/blob/main/Algebra%20Lineal/Algebra_Lineal.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+ * Algebra lineal. <a href="https://github.com/contreras-juan/UPTC_Diplomado_Ciencia_de_Datos/blob/main/Algebra%20Lineal/Algebra_Lineal.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
- -Cálulo diferencial. <a href="https://github.com/contreras-juan/UPTC_Diplomado_Ciencia_de_Datos/blob/main/Fundamentos%20de%20Calculo/Fundamentos_Calculo_diferencial.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+ * Cálulo diferencial. <a href="https://github.com/contreras-juan/UPTC_Diplomado_Ciencia_de_Datos/blob/main/Fundamentos%20de%20Calculo/Fundamentos_Calculo_diferencial.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
- -Probabilidad y Estadística. <a href="https://github.com/contreras-juan/UPTC_Diplomado_Ciencia_de_Datos/blob/main/Fundamentos%20de%20Probabilidad/Probabilidad_Ciencia_de_Datos.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+ * Probabilidad y Estadística. <a href="https://github.com/contreras-juan/UPTC_Diplomado_Ciencia_de_Datos/blob/main/Fundamentos%20de%20Probabilidad/Probabilidad_Ciencia_de_Datos.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 ### Bases de datos relacionales, proceso EDA y visualización de datos
 En estasección, se introducen los conceptos y sentencias fundamentales para el manejo y creación de bases de datos relacionales en el lenguaje SQL. Además, se instruye en la visualización de datos mediante:
--Visualización de datos en PowerBI.
--Visualización de datos en Matplotlib <a href="https://github.com/contreras-juan/UPTC_Diplomado_Ciencia_de_Datos/blob/main/Visualizaci%C3%B3n%20de%20datos%20en%20Python/Modulo%201_Visualizaci%C3%B3n_de_datos.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
--Visualización de datos en Seaborn <a href="https://github.com/contreras-juan/UPTC_Diplomado_Ciencia_de_Datos/blob/main/Visualizaci%C3%B3n%20de%20datos%20en%20Python/Modulo%202_Visualizaci%C3%B3n_de_datos.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
+ * Visualización de datos en PowerBI.
+
+ * Visualización de datos en Matplotlib <a href="https://github.com/contreras-juan/UPTC_Diplomado_Ciencia_de_Datos/blob/main/Visualizaci%C3%B3n%20de%20datos%20en%20Python/Modulo%201_Visualizaci%C3%B3n_de_datos.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
+ * Visualización de datos en Seaborn <a href="https://github.com/contreras-juan/UPTC_Diplomado_Ciencia_de_Datos/blob/main/Visualizaci%C3%B3n%20de%20datos%20en%20Python/Modulo%202_Visualizaci%C3%B3n_de_datos.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 Finalmente, se emplean los conceptos elementales del álgebra lineal, visualización de datos, probabilidad y estadística para introducir las prácticas más importantes en el Análisis Exploratorio de Datos (EDA).
--Análisis Exploratorio de Datos básico. <a href="https://github.com/contreras-juan/UPTC_Diplomado_Ciencia_de_Datos/blob/main/EDA/Proyectos/1)-Proyecto%201_EDA.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
--Análisis Exploratorio de Datos avanzado. <a href="https://github.com/contreras-juan/UPTC_Diplomado_Ciencia_de_Datos/blob/main/EDA/Proyectos/2)-Proyecto%202_EDA.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
+ * Análisis Exploratorio de Datos básico. <a href="https://github.com/contreras-juan/UPTC_Diplomado_Ciencia_de_Datos/blob/main/EDA/Proyectos/1)-Proyecto%201_EDA.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+ 
+ * Análisis Exploratorio de Datos avanzado. <a href="https://github.com/contreras-juan/UPTC_Diplomado_Ciencia_de_Datos/blob/main/EDA/Proyectos/2)-Proyecto%202_EDA.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 ### Métodos supervisados
 
